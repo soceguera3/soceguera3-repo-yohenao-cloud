@@ -1,0 +1,1 @@
+ skills/appinsights-instrumentation/LICENSE.txt en github/awesome-copilot (rama main, resuelto en el commit 6cc49fc676a5d3c647f26cd84da7824a03b69fa9
